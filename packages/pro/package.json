@@ -21,7 +21,7 @@
     "@koa/router": "15.3.0",
     "bull": "4.10.1",
     "dd-trace": "5.56.0",
-    "joi": "17.6.0",
+    "joi": "17.13.9",
     "jsonwebtoken": "9.0.2",
     "lru-cache": "^7.14.1",
     "memorystream": "^0.3.1",
